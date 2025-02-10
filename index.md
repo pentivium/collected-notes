@@ -1,4 +1,3 @@
+Pentivium's blog
 ---
-title: Welcome to my blog
----
-
+Here's a blog of stuff I think is interesting.
