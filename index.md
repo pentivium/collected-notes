@@ -1,3 +1,1 @@
-Pentivium's blog
----
-Here's a blog of stuff I think is interesting.
+Here's some collected notes on topics I think are interesting
